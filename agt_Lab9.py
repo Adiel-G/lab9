@@ -1,3 +1,7 @@
+#Adiel Garcia Tavarez
+
+from lwz_decode import decode
+
 def encode(input):
 	encoded_password = ''
 	for char in input:
